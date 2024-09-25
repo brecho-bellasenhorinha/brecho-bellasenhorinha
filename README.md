@@ -110,11 +110,11 @@
 
 <section id="contato">
     <h2>Contato</h2>
-    <p>Entre em contato comigo pelo e-mail <strong>bella@brechosenhorinha.com</strong> ou através das redes sociais abaixo:</p>
+    <p>Entre em contato comigo pelo e-mail <strong>bellasenhorinha@gmail.com</strong> ou através das redes sociais abaixo:</p>
     <div class="social-links">
-        <a href="https://instagram.com/bella_senhorinha" target="_blank">Instagram</a>
-        <a href="https://facebook.com/bella_senhorinha" target="_blank">Facebook</a>
-        <a href="https://kwai.com/bella_senhorinha" target="_blank">Kwai</a>
+        <a href="https://instagram.com/brechobellasenhorinha" target="_blank">Instagram</a>
+        <a href="https://facebook.com/brechobellasenhorinha" target="_blank">Facebook</a>
+        <a href="https://kwai.com/brechobs" target="_blank">Kwai</a>
     </div>
 </section>
 
